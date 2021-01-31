@@ -1,6 +1,6 @@
 # FCC: Casaldaliga's Tribute Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/deleit/pen/GRjpgNR](https://codepen.io/deleit/pen/GRjpgNR).
+A Pen created on CodePen.io. Original URL: [https://codepen.io/deleit/full/GRjpgNR](https://codepen.io/deleit/full/GRjpgNR).
 
 <h3>A tribute page made with CodePen as a project for the FreeCodeCamp's Responsive Web Design curriculum. It had to fulfill the below user stories and get all of the tests to pass:</h3>
 
